@@ -1,0 +1,305 @@
+[
+  {
+    "id": "0001",
+    "name": "HoChiMinh",
+    "latitude": "10.76",
+    "longitude": "106.66",
+    "description": "Ho Chi Minh City (former Saigon) is the largest city of Vietnam and its principal center of cultural and social life. Located in the southern areas of the country on the Saigon River, the city has been named after a prominent political and social leader of the country, Ho Chi Minh.", 
+    "avatar": "./database/image/avatar/0001.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0001_1.jpg",
+      "./database/image/detail/0001_2.jpg",
+      "./database/image/detail/0001_3.jpg",
+      "./database/image/detail/0001_4.jpg",
+      "./database/image/detail/0001_5.jpg",
+      "./database/image/detail/0001_6.jpg"
+    ]
+  },
+  {
+    "id": "0002",
+    "name": "HaNoi",
+    "latitude": "21.03",
+    "longitude": "105.80",
+    "description": "Hanoi is a wonderful city, the second-largest and the capital city of Vietnam, its important historic, cultural, and economic center.",
+    "avatar": "./database/image/avatar/0002.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0002_1.jpg",
+      "./database/image/detail/0002_2.jpg",
+      "./database/image/detail/0002_3.jpg",
+      "./database/image/detail/0002_4.jpg"
+    ]
+  },
+  {
+    "id": "0003",
+    "name": "DaNang",
+    "latitude": "16.05",
+    "longitude": "108.21",
+    "description": "Da Nang is one of the most principal cities in central Vietnam, located at Hai Chau District at Da Nang Bay",
+    "avatar": "./database/image/avatar/0003.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0003_1.jpg",
+      "./database/image/detail/0003_2.jpg",
+      "./database/image/detail/0003_3.jpg",
+      "./database/image/detail/0003_4.jpg"
+    ]
+  },
+  {
+    "id": "0004",
+    "name": "CanTho",
+    "latitude": "10.05",
+    "longitude": "105.75",
+    "description": "Can Tho is a large city in southern Vietnam, in the district of Ninh Kieu, Can Tho region. There are over 1.2 million people living in Can Tho, and it is the largest city in the delta of Mekong river. ",
+    "avatar": "./database/image/avatar/0004.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0004_1.jpg",
+      "./database/image/detail/0004_2.jpg",
+      "./database/image/detail/0004_3.jpg",
+      "./database/image/detail/0004_4.jpg"
+    ]
+  },
+  {
+    "id": "0005",
+    "name": "Hue",
+    "latitude": "16.46",
+    "longitude": "107.58",
+    "description": "The ancient Hue, located on the bank of the Huong River, was recognized by UNESCO as one of the World Heritage Sites. This city is the cradle of Vietnamese culture and used to be the national capital, educational, cultural and political center of Vietnam under the Nguyen Dynasty.",
+    "avatar": "./database/image/avatar/0005.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0005_1.jpg",
+      "./database/image/detail/0005_2.jpg",
+      "./database/image/detail/0005_3.jpg",
+      "./database/image/detail/0005_4.jpg"
+    ]
+  },
+  {
+    "id": "0006",
+    "name": "DaLat",
+    "latitude": "11.95",
+    "longitude": "108.45",
+    "description": "Dalat or Da Lat is the capital city of Lam Dong province, Vietnam. Da Lat is the City of Flowers and honeymooners with lovely French villas, the fresh air, the beautiful waterfalls and gorgeous lakes sits in a lush and green valley of postcard beauty. ",
+    "avatar": "./database/image/avatar/0006.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0006_1.jpg",
+      "./database/image/detail/0006_2.jpg",
+      "./database/image/detail/0006_3.jpg",
+      "./database/image/detail/0006_4.jpg"
+    ]
+  },
+  {
+    "id": "0007",
+    "name": "HaLong",
+    "latitude": "20.96",
+    "longitude": "107.04",
+    "description": "Ha Long is the capital and the largest city of Quang Ninh Province in northern Vietnam. It is one of the largest ports of the area, an important industrial and cultural center, with the population close to 220,000 people.",
+    "avatar": "./database/image/avatar/0007.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0007_1.jpg",
+      "./database/image/detail/0007_2.jpg",
+      "./database/image/detail/0007_3.jpg",
+      "./database/image/detail/0007_4.jpg"
+    ]
+  },
+  {
+    "id": "0008",
+    "name": "SaPa",
+    "latitude": "22.36",
+    "longitude": "103.87",
+    "description": "In the northeast area of Vietnam, there is a district Sa Pa, which is a part of Lao Cai Province. According to the estimations of the year 2003, the population of the district was close to 42,000 people. The total area of the district is close to 260 square miles.",
+    "avatar": "./database/image/avatar/0008.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0008_1.jpg",
+      "./database/image/detail/0008_2.jpg",
+      "./database/image/detail/0008_3.jpg",
+      "./database/image/detail/0008_4.jpg"
+    ]
+  },
+  {
+    "id": "0009",
+    "name": "NhaTrang",
+    "latitude": "12.25",
+    "longitude": "109.20",
+    "description": "Nha Trang coastal city is the political, economic, cultural, sci-tech and tourism centre of Khanh Hoa province. With its long, white sand coast, Nha Trang has been listed one of the most beautiful bays in the world.",
+    "avatar": "./database/image/avatar/0009.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0009_1.jpg",
+      "./database/image/detail/0009_2.jpg",
+      "./database/image/detail/0009_3.jpg",
+      "./database/image/detail/0009_4.jpg"
+    ]
+  },
+  {
+    "id": "0010",
+    "name": "PhuQuoc",
+    "latitude": "10.17",
+    "longitude": "103.98",
+    "description": "Phu Quoc Island in Kien Giang Province is Viet Nam's largest island. It is blessed with beautiful scenery and rich natural resources. Visitors to Phu Quoc love its peaceful sea and long sandy beaches which distinguish it from other seaside resorts like Nha Trang and Da Nang.",
+    "avatar": "./database/image/avatar/0010.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0010_1.jpg",
+      "./database/image/detail/0010_2.jpg",
+      "./database/image/detail/0010_3.jpg",
+      "./database/image/detail/0010_4.jpg"
+    ]
+  },
+  {
+    "id": "0011",
+    "name": "NewYork",
+    "latitude": "40.71",
+    "longitude": "-74.01",
+    "description": "NewYork is one of the largest centers of communication in the state of America, and one of the largest gates to receive immigration in America, and the largest centers of trade, industry, finance.",
+    "avatar": "./database/image/avatar/0011.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0011_1.jpg",
+      "./database/image/detail/0011_2.jpg",
+      "./database/image/detail/0011_3.jpg",
+      "./database/image/detail/0011_4.jpg"
+    ]
+  },
+  {
+    "id": "0012",
+    "name": "ShangHai",
+    "latitude": "31.23",
+    "longitude": "121.47",
+    "description": "Shanghai, the Oriental Paris, is China's biggest and most prosperous city. It is one of China's greatest economic and cultural centers, therefore it is popularly seen as the birthplace of everything considered modern in China.",
+    "avatar": "./database/image/avatar/0012.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0012_1.jpg",
+      "./database/image/detail/0012_2.jpg",
+      "./database/image/detail/0012_3.jpg",
+      "./database/image/detail/0012_4.jpg"
+    ]
+  },
+  {
+    "id": "0013",
+    "name": "Beijing",
+    "latitude": "39.90",
+    "longitude": "116.41",  
+    "description": "Beijing, the capital of China, is a city where the ancient culture and the modern civilization are well integrated. It attracts tens of millions of visitors and tourists both at home and abroad each year to enjoy its rich culture and wonderful scenery.",
+    "avatar": "./database/image/avatar/0013.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0013_1.jpg",
+      "./database/image/detail/0013_2.jpg",
+      "./database/image/detail/0013_3.jpg",
+      "./database/image/detail/0013_4.jpg"
+    ]
+  },
+  {
+    "id": "0014",
+    "name": "Chongqing",
+    "latitude": "29.56",
+    "longitude": "106.55",  
+    "description": "Chongqing is the largest municipality in southwest China. It is a modern port city on the upper reaches of the Yangtze River at the confluence of the Yangtze and Jialing Rivers.",
+    "avatar": "./database/image/avatar/0014.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0014_1.jpg",
+      "./database/image/detail/0014_2.jpg",
+      "./database/image/detail/0014_3.jpg",
+      "./database/image/detail/0014_4.jpg"
+    ]
+  },
+  {
+    "id": "0015",
+    "name": "HongKong",
+    "latitude": "22.40",
+    "longitude": "114.11",  
+    "description": "Hong Kong is officially known as the Hong Kong Special Administrative Region. Hong Kong has one of the world's most thriving economies and is a hub for international trade and investment. A cosmopolitan city, Hong Kong weaves Western and Asian influence into a world-class center of business, culture, and trade.",
+    "avatar": "./database/image/avatar/0015.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0015_1.jpg",
+      "./database/image/detail/0015_2.jpg",
+      "./database/image/detail/0015_3.jpg",
+      "./database/image/detail/0015_4.jpg"
+    ]
+  },
+  {
+    "id": "0016",
+    "name": "Paris",
+    "latitude": "48.86",
+    "longitude": "2.35",  
+    "description": "Paris is one of the most beautiful cities in the world. It is known worldwide for the Louvre Museum, Notre-Dame cathedral, and the Eiffel tower. It has a reputation of being a romantic and cultural city. The city is also known for its high-quality gastronomy and the terraces of its cafés.",
+    "avatar": "./database/image/avatar/0016.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0016_1.jpg",
+      "./database/image/detail/0016_2.jpg",
+      "./database/image/detail/0016_3.jpg",
+      "./database/image/detail/0016_4.jpg"
+    ]
+  },
+  {
+    "id": "0017",
+    "name": "LonDon",
+    "latitude": "51.51",
+    "longitude": "-0.13",  
+    "description": "London is the capital city of the United Kingdom. It is the U.K.'s largest metropolis and its economic, transportation, and cultural centre. London is also among the oldest of the world's great cities, with its history spanning nearly two millennia.",
+    "avatar": "./database/image/avatar/0017.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0017_1.jpg",
+      "./database/image/detail/0017_2.jpg",
+      "./database/image/detail/0017_3.jpg",
+      "./database/image/detail/0017_4.jpg"
+    ]
+  },
+  {
+    "id": "0018",
+    "name": "Seoul",
+    "latitude": "37.57",
+    "longitude": "126.98",  
+    "description": "Seoul is the capital and largest city in South Korea. It's considered a megacity because it has a population of over ten million people, with nearly half of its 10,208,302 people residing in the National Capital Area (which also includes Incheon and Gyeonggi).",
+    "avatar": "./database/image/avatar/0018.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0018_1.jpg",
+      "./database/image/detail/0018_2.jpg",
+      "./database/image/detail/0018_3.jpg",
+      "./database/image/detail/0018_4.jpg"
+    ]
+  },
+  {
+    "id": "0019",
+    "name": "Tokyo",
+    "latitude": "35.69",
+    "longitude": "139.69",  
+    "description": "Tokyo is the administrative, cultural, financial, commercial, and educational centre of Japan and the focus of an extensive urban complex that includes Kawasaki and Yokohama. Attractions include the Imperial Palace, encircled by stone-walled moats and broad gardens, and numerous temples and shrines.",
+    "avatar": "./database/image/avatar/0019.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0019_1.jpg",
+      "./database/image/detail/0019_2.jpg",
+      "./database/image/detail/0019_3.jpg",
+      "./database/image/detail/0019_4.jpg"
+    ]
+  },
+  {
+    "id": "0020",
+    "name": "Moscow",
+    "latitude": "55.75",
+    "longitude": "37.62",  
+    "description": "Moscow is the northernmost and coldest megacity and metropolis on Earth, one of the most populous in Europe and the 8th largest city proper in the world, as well as the largest amongst high income economies.",
+    "avatar": "./database/image/avatar/0020.jpg", 
+    "detail_image": 
+    [
+      "./database/image/detail/0020_1.jpg",
+      "./database/image/detail/0020_2.jpg",
+      "./database/image/detail/0020_3.jpg",
+      "./database/image/detail/0020_4.jpg"
+    ]
+  }
+]
+  
